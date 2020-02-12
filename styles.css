@@ -1,0 +1,60 @@
+nav {
+    background-color: #a7d46f;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+
+a {
+    font-family: arial;
+    color: hsl(320, 100%, 50%);
+    margin: 10px 10px 10px 10px;
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+body {
+    background-color: #604fdd;
+}
+
+h1 {
+    font-family: Courier;
+    font-size: 4em;
+    color: #52d6d3;
+    text-align: center;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: helvetica;
+    font-size: 1.3em;
+    color: #00d46a;
+    text-align: left;
+    font-weight: 100;
+}
+
+.week {
+    font-family: 'courier new';
+    font-size: 1em;
+    color: #d7ff7a;
+    text-align: left;
+    font-weight: 100;
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 1em;
+    font-weight: 700;
+    color: white;
+}
+
+.list {
+    font-family: Helvetica;
+    font-weight: 100;
+    color:rgb(255, 237, 136);
+    font-size: 1em;
+}
+
+ul {
+    list-style: none;
+}
